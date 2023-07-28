@@ -2,7 +2,11 @@ package oop.color.decorator;
 
 public class DecoratorPatternDemo {
 
-    public void Process(){
+    public static void main(String[] arg){
+        System.out.println("******************Decorator Pattern**************************** \n");
+        MyProcess();
+    }
+    public static void MyProcess(){
         Shape circle =new Circle();
         System.out.println("Circle with normal border");
         circle.draw();

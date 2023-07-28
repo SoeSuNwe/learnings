@@ -18,9 +18,7 @@ public class Main {
 
         Coffee espresso = machine.brewCoffee(CoffeeSelection.ESPRESSO);
 
-        System.out.println("******************Decorator Pattern**************************** \n");
-        DecoratorPatternDemo demo=new DecoratorPatternDemo();
-        demo.Process();
+
 
     }
 }
