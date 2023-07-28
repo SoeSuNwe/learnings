@@ -1,7 +1,7 @@
 package org.example;
 
 import oop.abstraction.*;
-import oop.decorator.DecoratorPatternDemo;
+import oop.color.decorator.DecoratorPatternDemo;
 
 import java.util.HashMap;
 import java.util.Map;

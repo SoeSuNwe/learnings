@@ -1,4 +1,4 @@
-package oop.decorator;
+package oop.color.decorator;
 
 public class Circle implements Shape{
     @Override
