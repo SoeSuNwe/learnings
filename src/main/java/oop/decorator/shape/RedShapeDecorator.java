@@ -1,4 +1,4 @@
-package oop.color.decorator;
+package oop.decorator.shape;
 
 public class RedShapeDecorator extends ShapeDecorator {
     public RedShapeDecorator(Shape decoratedShape){

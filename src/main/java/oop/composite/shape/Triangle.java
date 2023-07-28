@@ -1,4 +1,4 @@
-package oop.color.composite;
+package oop.composite.shape;
 
 public class Triangle implements Shape {
     @Override

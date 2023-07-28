@@ -1,4 +1,4 @@
-package oop.color.decorator;
+package oop.decorator.shape;
 
 public abstract class ShapeDecorator implements Shape {
     protected Shape decoratedShape;

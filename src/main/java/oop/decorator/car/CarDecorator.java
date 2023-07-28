@@ -1,4 +1,4 @@
-package oop.car.decorator;
+package oop.decorator.car;
 
 public class CarDecorator implements Car {
 

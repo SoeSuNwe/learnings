@@ -1,4 +1,4 @@
-package oop.color.decorator;
+package oop.decorator.shape;
 
 public class Rectangle implements Shape{
     @Override
